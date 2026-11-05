@@ -1,0 +1,7 @@
+{
+  "formato": "aya-catalogo-extra",
+  "versao": 1,
+  "descricao": "Pacotes extras da Biblioteca AYA (baixados sob demanda pelo AYA Studio). Só entram itens CC0.",
+  "base": "https://raw.githubusercontent.com/alexan11111/aya-assets/main/",
+  "itens": []
+}
